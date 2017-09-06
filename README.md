@@ -2,4 +2,4 @@
 sample repository
 
 
-Intoduction to Git for STAT 385
+Will the merge conflict superhero spare us? (remote)
